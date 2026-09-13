@@ -21,7 +21,7 @@ const manrope = Manrope({
 export const metadata = {
   title: "Casa Vienna — Azure Urban Resort",
   description:
-    "Casa Vienna at Azure Urban Resort — a boutique city staycation with 1 and 2 bedroom units, resort amenities, and easy direct booking.",
+    "Casa Vienna at Azure Urban Resort Residences — a 1 Bedroom city-view unit for up to 4 guests, plus two 2 Bedroom beachview units, with resort amenities and easy direct booking.",
 };
 
 export default function RootLayout({ children }) {
