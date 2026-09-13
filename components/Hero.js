@@ -1,5 +1,3 @@
-import PlaceholderImage from "./PlaceholderImage";
-
 export default function Hero() {
   return (
     <section id="home" className="hero">
@@ -26,7 +24,9 @@ export default function Hero() {
         </div>
       </div>
       <div className="hero-figure">
-        <PlaceholderImage label="Hero image placeholder — 1600×1200" />
+        <video className="hero-video" autoPlay muted loop playsInline>
+          <source src="/videos/azure-wave-pool.mp4" type="video/mp4" />
+        </video>
       </div>
     </section>
   );
