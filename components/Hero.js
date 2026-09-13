@@ -11,9 +11,10 @@ export default function Hero() {
           escape in the city
         </h1>
         <p className="lede">
-          Boutique 1 and 2 bedroom units at Azure Urban Resort, built for
-          weekend resets and slow mornings — minutes from the city, worlds
-          away from it.
+          A 1 Bedroom city-view unit for up to 4 guests, plus two 2 Bedroom
+          beachview units at Azure Urban Resort Residences — built for
+          weekend resets and slow mornings, minutes from the city and the
+          shore.
         </p>
         <div className="hero-actions">
           <a href="#onebedroom" className="btn btn-solid">
